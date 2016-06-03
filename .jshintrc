@@ -1,0 +1,16 @@
+{
+    "boss": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "sub": true,
+    "undef": true,
+    "unused": true,
+    "node": true,
+    "-W117": true,
+    "asi": false,
+    "esnext": true
+}
